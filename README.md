@@ -24,6 +24,8 @@ This extension replaces chaotic spreadsheets and scattered drafts with a central
 
 Upgrade to the Pro version for **$39.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://cleargum.gumroad.com/l/jaovht)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/4gM8wP3aL8Is5tu0VecZc2x)** — Secure checkout
 
 ## Installation
@@ -35,6 +37,7 @@ Upgrade to the Pro version for **$39.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/jaovht)
 
 ## License
 
